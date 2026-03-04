@@ -11,3 +11,6 @@ def menor(A, B, C):
 
 def maximo(A, B, C):
     return max(A, B, C)
+
+def mean(A,B)
+	return(A,B)
