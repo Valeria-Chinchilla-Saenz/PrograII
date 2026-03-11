@@ -17,6 +17,10 @@ def maximo(A, B, C):
 def mean(A,B)
 	return(A,B)
 
+#Funcion resta
+def resta(A,B):
+	return resta(A,B)
+
 # Función que retorna la suma
 def sum(A,B)
 	return(A,B) 
